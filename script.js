@@ -175,10 +175,3 @@ switch (prompt("What is the task to be perform on this day?")) {
     console.log("No task to be performed today");
 }*/
 
-//CONDITIONAL TERNARY OPERATOR.
-// const age = Number(prompt(" what is the constatnt age"))
-// age >= 18 ? console.log("I like to drink wine🍷") : console.log ("I like to drink water💧");
-
-// const bill = 275;
-// // tip = bill >= 50 && bill <= 300 ? bill * 15 / 100 : bill * 20 / 100;
-// // console.log (`The bill was ${bill}, the tip was ${tip} and the total value was ${bilml + tip}`);
